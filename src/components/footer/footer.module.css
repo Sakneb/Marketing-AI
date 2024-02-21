@@ -1,15 +1,15 @@
 .container {
-  height: 100px;
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  height: 100px;
+  align-items: center;
+  color: gray;
 }
 
-.NavLogo {
-  height: auto;
-  width: 100%;
+.text {
+  font-size: 12px;
 }
 
-.svglogo {
+.logo {
   background-color: blue;
 }

@@ -5,10 +5,12 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
-        <h1 className={styles.title}>Creative Thoughts Agency</h1>
+        <h1 className={styles.title}>AI-powered marketing agency</h1>
         <p className={styles.description}>
-          We are a dynamic and forward-thinking organization dedicated to
-          fostering creativity and innovation across various industries
+          An AI-powered marketing agency leverages cutting-edge artificial
+          intelligence technologies to optimize marketing strategies, enhance
+          customer targeting, and deliver data-driven insights for businesses
+          seeking a competitive edge in the digital landscape
         </p>
         <div className={styles.buttons}>
           <button className={styles.button}>Learn More</button>
