@@ -7,6 +7,7 @@ const Contact = () => {
       <div className={styles.imgContainer}>
         <Image
           className={styles.img}
+          sizes="(max-width: 100vw)"
           src="/contact.png"
           alt="Contact Page"
           fill
